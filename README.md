@@ -5,7 +5,7 @@ I'm Adeeba, making my way through this data driven world & learning in the proce
 ✨ About Me in 30 Secs ✨
 * :woman_student: Bachelor in Electronics & Communication Engineering
 * 📊 Transition to Data Analytics in July 2021
-* 📝 Self learning Analytics skills & best practices.
+* 📝 Self learning Analytics skills & best practices
 * :heavy_check_mark: Google Certified Data Analyst
 
 💡 Skills and tools
