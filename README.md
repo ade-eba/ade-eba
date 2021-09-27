@@ -1,6 +1,6 @@
-## Hi there 👋 ##
+## Hi, I'm Adeeba 🙋 ##
 
-I'm Adeeba, making my way through this data driven world & learning in the process.
+ Making my way through this data driven world & learning a lot in the process.
 
 ✨ About Me in 30 Secs ✨
 * :woman_student: Bachelor in Electronics & Communication Engineering
