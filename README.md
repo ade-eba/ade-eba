@@ -2,7 +2,7 @@
 
  Making my way through this data driven world & learning a lot in the process.
 
-✨ About Me in 30 Secs ✨
+✨ A Little About Me ✨
 * :woman_student: Bachelor in Electronics & Communication Engineering
 * 📊 Transition to Data Analytics in July 2021
 * 📝 Self learning Analytics skills & best practices
