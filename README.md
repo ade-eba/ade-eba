@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there 👋 ##
 
-<!--
-**ade-eba/ade-eba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adeeba, making my way through this data driven world & learning in the process.
 
-Here are some ideas to get you started:
+✨ About Me in 30 Secs ✨
+* :woman_student: Bachelor in Electronics & Communication Engineering
+* 📊 Transition to Data Analytics in July 2021
+* 📝 Self learning Analytics skills & best practices.
+* :heavy_check_mark: Google Certified Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Skills and tools
+
+* Tools: SQL (SQL Server,MySQL), Power BI, Python (Pandas, Numpy, Matplotlib), [Tableau](https://public.tableau.com/app/profile/latheef.adeeba), Excel (Pivot Tables, Vlookup, Charts)
+* Skills: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization & Dashboard Making, Transact SQL
+
+
+📝 Currently Learning
+* Maven Analytics Business Intelligence Path
+* SQL
+* Advanced Excel
+* Power BI
+* Python for Data Analysis
+
+
+🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](www.linkedin.com/in/adeeba-latheef)!
+
+
