@@ -22,6 +22,6 @@ I'm Adeeba, making my way through this data driven world & learning in the proce
 * Python for Data Analysis
 
 
-🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](www.linkedin.com/in/adeeba-latheef)!
+🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/adeeba-latheef)!
 
 
