@@ -13,13 +13,13 @@
 * Tools: SQL (SQL Server,MySQL), Power BI, Python (Pandas, Numpy, Matplotlib), [Tableau](https://public.tableau.com/app/profile/latheef.adeeba), Excel (Pivot Tables, Vlookup, Charts)
 * Skills: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization & Dashboard Making, Transact SQL
 
-
 📝 Currently Learning
 * Maven Analytics Business Intelligence Path
 * SQL
 * Advanced Excel
 * Power BI
 * Python for Data Analysis
+
 
 :female_detective: [Portfolio Projects & Case Studies](https://github.com/ade-eba/Portfolio-Projects)
 
