@@ -21,6 +21,7 @@
 * Power BI
 * Python for Data Analysis
 
+	:female_detective: My Portfolio of Projects & Case Studies
 
 🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/adeeba-latheef)!
 
