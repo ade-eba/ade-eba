@@ -21,7 +21,7 @@
 * Power BI
 * Python for Data Analysis
 
-	:female_detective: My Portfolio of Projects & Case Studies
+:female_detective: [Portfolio Projects & Case Studies](https://github.com/ade-eba/Portfolio-Projects)
 
 🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/adeeba-latheef)!
 
