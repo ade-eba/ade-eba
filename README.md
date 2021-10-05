@@ -7,6 +7,8 @@
 * 📊 Transition to Data Analytics in July 2021
 * 📝 Self learning Analytics skills & best practices
 * :heavy_check_mark: [Google Certified Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/FWJZUQPJCZ54)
+* :heavy_check_mark: [Hacker Rank SQL(Basic) Certificate](https://www.hackerrank.com/certificates/1bf167df50d3)
+* :heavy_check_mark: Maven Analytics Certificate of Completion : [Excel Pivot Tables](https://www.credential.net/6dcc303f-f67b-4f98-a833-f0d715afeb1c#gs.d2july), [Excel Formulas & Functions](https://www.credential.net/90dcfbf3-be7d-468f-8e06-007cafdee6d3), [Excel Charts & Graphs](https://www.credential.net/796204ce-9b30-4ffe-a756-7ff6cc41be94#gs.d2jxkx)
 
 💡 Skills and tools
 
