@@ -10,7 +10,7 @@
 
 💡 Skills and tools
 
-* Tools: SQL (SQL Server,MySQL), Power BI, Python (Pandas, Numpy, Matplotlib), [Tableau](https://public.tableau.com/app/profile/latheef.adeeba), Excel (Pivot Tables, Vlookup, Charts)
+* Tools: SQL (Transact-SQL,MySQL,PostgreSQL), Power BI, Python (Pandas, Numpy, Matplotlib), [Tableau](https://public.tableau.com/app/profile/latheef.adeeba), Excel (Pivot Tables, Vlookup, Charts)
 * Skills: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization & Dashboard Making, Transact SQL
 
 📝 Currently Learning
