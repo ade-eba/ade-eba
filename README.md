@@ -20,8 +20,9 @@
 * Power BI
 * Python for Data Analysis
 
+:woman_technologist: Daily Notes on SQL [here](https://github.com/ade-eba/SQL-Guide)
+:female_detective: Portfolio Projects & Case Studies [here](https://github.com/ade-eba/Portfolio-Projects)
 
-:female_detective: [Portfolio Projects & Case Studies](https://github.com/ade-eba/Portfolio-Projects)
 
 🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/adeeba-latheef)!
 
