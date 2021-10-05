@@ -6,7 +6,7 @@
 * :woman_student: Bachelor in Electronics & Communication Engineering
 * 📊 Transition to Data Analytics in July 2021
 * 📝 Self learning Analytics skills & best practices
-* :heavy_check_mark: Google Certified Data Analyst
+* :heavy_check_mark: [Google Certified Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/FWJZUQPJCZ54)
 
 💡 Skills and tools
 
