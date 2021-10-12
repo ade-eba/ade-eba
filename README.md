@@ -16,6 +16,7 @@
 * Skills: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization & Dashboard Making, Transact SQL
 
 📝 Currently Learning
+* [Udacity Data Analyst Nanodegree Program](https://github.com/ade-eba/Udacity-Data-Analyst-Nanodegree)
 * Maven Analytics Business Intelligence Path
 * SQL
 * Advanced Excel
